@@ -1,24 +1,13 @@
-# README
+Ruby on Railsを使用して作成したタスク管理アプリです。タスクの作成/閲覧/編集/削除が可能。検索機能やインポート、エクスポート機能もあります。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+環境
+- Ruby:2.4.1
+- Rails:5.2.3
 
-Things you may want to cover:
+基本機能
+- タスクの作成/閲覧/編集/削除
+- タスク名による検索機能
+- タスクのインポート、エクスポート(CSV形式)
+- ログイン機能(管理者権限ありのユーザーによって管理されている)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

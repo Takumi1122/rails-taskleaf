@@ -10,4 +10,5 @@ Ruby on Railsを使用して作成したタスク管理アプリです。タス�
 - タスクのインポート、エクスポート(CSV形式)
 - ログイン機能(管理者権限ありのユーザーによって管理されている)
 
+参考書籍：[現場で使える Ruby on Rails 5速習実践ガイド](https://book.mynavi.jp/ec/products/detail/id=93905 "現場で使える Ruby on Rails 5速習実践ガイド")
 
